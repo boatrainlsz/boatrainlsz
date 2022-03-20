@@ -1,4 +1,4 @@
-我使用最多的语言:
+我使用的语言:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boatrainlsz&layout=compact&show_icons=true&theme=gruvbox&hide_border=true&langs_count=10)](https://github.com/boatrainlsz/boatrainlsz)
 
