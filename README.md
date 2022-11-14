@@ -1,6 +1,6 @@
 The languages I use:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boatrainlsz&layout=compact&show_icons=true&theme=gruvbox&hide_border=true&langs_count=10)](https://github.com/boatrainlsz/boatrainlsz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boatrainlsz&layout=compact&show_icons=true&exclude_repo=boatrainlsz.github.io&theme=gruvbox&hide_border=true&langs_count=10)](https://github.com/boatrainlsz/boatrainlsz)
 
 My GitHub stats:
 
